@@ -1,0 +1,50 @@
+  147  cd ~
+  148  ls
+  149  pwd
+  150  mkdir public
+  151  ls
+  152  cp Lab2_P2/RealEstate.csv public/myRealEstate.csv
+  153  ls
+  154  cd public/
+  155  ls
+  156  wc -l myRealEstate.csv 
+  157  cd ~
+  158  ls public/
+  159  pwd
+  160  ls /home/rtognoni1/public/
+  161  mkdir Regular
+  162  mkdir Submission/Lab2
+  163  pwd
+  164  ls
+  165  rem
+  166  rm -d Regular/
+  167  ls
+  168  cd public/
+  169  ls
+  170  mkdir Regular
+  171  mkdir Submission/Lab2
+  172  mkdir Submission
+  173  mdkir Submission/Lab2
+  174  mkdir Submission/Lab2
+  175  mkdir Submission/Lab3
+  176  ls
+  177  ls Submission/
+  178  cp /home/rtognoni1/Lab2_P2/ Submission/Lab2
+  179  ls Submission/Lab2
+  180  ls /home/rtognoni1
+  181  pwd
+  182  man cp
+  183  cp -R /home/rtognoni1/Lab2_P2/ Submission/Lab2
+  184  ls Submission/Lab2
+  185  mv Regular/ Other/
+  186  ls
+  187  ls /home/rtognoni1/
+  188  rm -d /home/rtognoni1/Lab2_P2/
+  189  ls /home/rtognoni1/Lab2_P2/
+  190  rm -r /home/rtognoni1/Lab2_P2/
+  191  ls /home/rtognoni1/Lab2_P2/
+  192  ls /home/rtognoni1/
+  193  history
+  194  man history
+  195  history 3
+  196  history 50
